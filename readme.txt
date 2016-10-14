@@ -1,5 +1,42 @@
-Hello
-I don't really know what to type
-Here goes nothing
-I could be better still than anything that im down i know you think you could too i know you think y it's the little things in  life that I fell
-that i feel
+year,close
+1976,100
+1977,99
+1978,99
+1979,98
+1980,97
+1981,96
+1982,94
+1983,93
+1984,93
+1985,93
+1986,95
+1987,92
+1988,92
+1989,91
+1990,92
+1991,90
+1992,89
+1993,88
+1994,88
+1995,86
+1996,84
+1997,82
+1998,78
+1999,79
+2000,79
+2001,76
+2002,75
+2003,74
+2004,71
+2005,70
+2006,66
+2007,66
+2008,62
+2009,60
+2010,58
+2011,60
+2012,50
+2013,47
+2014,46
+2015,40
+2016,42
